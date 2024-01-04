@@ -26,5 +26,5 @@ Notice: Y-coordinate of gameobject used as pivot for auto-correction Z-coordinat
 
 ![](docs/composite.png)
 - contains 2 sprite component, one for a front plane, second for a top plane with rotating around X-axe
-
-
+[!NOTE]
+dasdasda
