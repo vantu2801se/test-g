@@ -28,8 +28,3 @@ Notice: Y-coordinate of gameobject used as pivot for auto-correction Z-coordinat
 - contains 2 sprite component, one for a front plane, second for a top plane with rotating around X-axe
 
 
-
-## Art and animations license:
-
-CC0 1.0 Universal
-You’re free to use these assets in any project, personal or commercial. There’s no need to ask permission before using these. Giving attribution is not required, but is greatly appreciated! 
